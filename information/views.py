@@ -24,4 +24,3 @@ class ResetPasswordView(View):
 
     def post(self, request):
         pass
-
