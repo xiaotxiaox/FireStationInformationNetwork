@@ -1,0 +1,15 @@
+.DS_Store
+/dist
+
+# Editor directories and files
+.idea
+.vscode
+
+# Byte-compiled / optimized / DLL files
+
+*/__pycache__/
+
+# Django files
+/media/file/*
+
+
