@@ -6,7 +6,7 @@
 .vscode
 
 # Byte-compiled / optimized / DLL files
-
+/pycache/
 */__pycache__/
 
 # Django files
